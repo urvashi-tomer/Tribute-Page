@@ -1,0 +1,33 @@
+body {
+  font : 'Times New Roman';
+  font-size: 1.5rem;
+  line-height: 1.5;
+  text-align: left;
+  color: #333;
+  margin: 1;
+}
+
+img {
+  max-width: 55%;
+  display: block;
+  margin: 0 auto;
+}
+
+#top {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 4.5rem;
+}
+
+#headline {
+  text-align: center;
+  font-size : 2.8rem;
+}
+
+#down {
+  text-align: right;
+}
+
+
+
+
